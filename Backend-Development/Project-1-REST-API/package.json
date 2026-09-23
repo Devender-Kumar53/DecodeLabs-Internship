@@ -1,0 +1,13 @@
+{
+  "name": "decodelabs-rest-api",
+  "version": "1.0.0",
+  "description": "DecodeLabs Backend Development Project 1 - REST API Fundamentals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
